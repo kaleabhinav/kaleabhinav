@@ -43,12 +43,13 @@ If you're into technical blogs or want to see what I’ve been learning and buil
 ### 🌱 A Bit More About Me
 
 - 🧠 I enjoy figuring out how intelligent systems work — especially the messy parts.
-- 🎧 Music keeps me sane during long coding sessions.
-- ♟️ I love playing chess (strategic thinking never gets old)
-- 🏀 Basketball fan — whether it’s pickup games or NBA highlights
+- 🎧 Music keeps me focused during long coding sessions.
+- ♟️ Chess enthusiast — play with me on [Chess.com](https://www.chess.com/member/bowser0807)
+- 🏀 Die-hard **Lakers** fan 🟣🟡 (Kobe forever)
+- 🎮 Big fan of **PUBG (PC version)** — nothing beats a clutch chicken dinner
 - 💡 I like simple, clean solutions over flashy ones.
 - ✨ I’m not in a rush — I’m in it for the *long game*.
 
 ---
 
-Feel free to check out my projects or connect if you’re working on something interesting!
+_Thanks for dropping by! Feel free to check out my projects, blog posts, or challenge me to a game — whether it’s chess or Erangel._ 😄
