@@ -42,9 +42,11 @@ If you're into technical blogs or want to see what I’ve been learning and buil
 
 ### 🌱 A Bit More About Me
 
-- 🌌 I like learning how intelligent systems work — especially the messy parts.
+- 🧠 I enjoy figuring out how intelligent systems work — especially the messy parts.
 - 🎧 Music keeps me sane during long coding sessions.
-- 💡 I prefer simple, clean solutions over flashy ones.
+- ♟️ I love playing chess (strategic thinking never gets old)
+- 🏀 Basketball fan — whether it’s pickup games or NBA highlights
+- 💡 I like simple, clean solutions over flashy ones.
 - ✨ I’m not in a rush — I’m in it for the *long game*.
 
 ---
